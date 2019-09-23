@@ -1,26 +1,8 @@
-# project-t
+# Vuetify Boilerplate
+Boilerplate to start with Vuetify
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## Steps
+1. Fork and clone https://github.com/nimitbhargava/vuetify-boilerplate
+2. Add vue router (preferable, not required)
+3. `yarn install`
+4. `yarn serve`
